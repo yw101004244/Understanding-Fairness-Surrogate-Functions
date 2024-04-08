@@ -6,7 +6,7 @@ Openreview Link: https://openreview.net/forum?id=iBgmoMTlaz
 
 
 ## Files
-The experiments are in `./fairness/`, while the utils are in `./lib/`.
+The experiments are in `./fairness/`, while the tools are in `./lib/`.
 
 
 ## Start
